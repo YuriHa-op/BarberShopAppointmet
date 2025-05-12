@@ -1,0 +1,335 @@
+[2025-03-25T03:13:25.522] User: Server, Operation: login, Data: {"password":"1111","username":"yuri"}
+[2025-03-25T03:13:37.343] User: Server, Operation: view, Data: 
+[2025-03-25T03:13:46.704] User: Server, Operation: view, Data: 
+[2025-03-25T03:13:55.169] User: Server, Operation: cancel, Data: b8e9cd3b
+[2025-03-25T03:14:00.689] User: Server, Operation: view, Data: 
+[2025-03-25T03:14:04.506] User: Server, Operation: book, Data: {"date":"2025-11-13","startTime":"3:00 PM","endTime":"4:00 PM","username":"yuri"}
+[2025-03-25T03:14:14.13] User: Server, Operation: book, Data: {"date":"2025-03-23","startTime":"9:00 AM","endTime":"10:00 AM","username":"yuri"}
+[2025-03-25T03:17:44.999] User: Server, Operation: login, Data: {"password":"1111","username":"yuri"}
+[2025-03-25T03:17:47.659] User: Server, Operation: view, Data: 
+[2025-03-25T03:17:51.605] User: Server, Operation: view, Data: 
+[2025-03-25T03:18:01.22] User: Server, Operation: cancel, Data: 5d100a5a
+[2025-03-25T03:18:02.099] User: Server, Operation: view, Data: 
+[2025-03-25T03:21:21.521] User: Server, Operation: register, Data: {"password":"1111","username":"sana"}
+[2025-03-25T03:21:21.55] User: sana, Operation: register, Data: User registered successfully
+[2025-03-25T03:21:32.554] User: Server, Operation: login, Data: {"password":"1111","username":"sana"}
+[2025-03-25T03:21:32.555] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-25T03:21:59.187] User: Server, Operation: login, Data: {"password":"1111","username":"yuri"}
+[2025-03-25T03:21:59.213] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T03:22:12.139] User: Server, Operation: view, Data: 
+[2025-03-25T03:22:17.98] User: Server, Operation: book, Data: {"date":"2025-03-22","startTime":"4:00 PM","endTime":"5:00 PM","username":"sana"}
+[2025-03-25T03:22:25.546] User: sana, Operation: logout, Data: User logged out
+[2025-03-25T03:34:00.864] User: Server, Operation: login, Data: {"password":"1111","username":"yuri"}
+[2025-03-25T03:34:00.908] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T03:34:03.51] User: Server, Operation: view, Data: 
+[2025-03-25T03:34:08.029] User: Server, Operation: cancel, Data: 1742838302553
+[2025-03-25T03:34:08.946] User: Server, Operation: view, Data: 
+[2025-03-25T03:34:08.95] User: yuri, Operation: cancel, Data: Appointment cancelled with ID: 1742838302553
+[2025-03-25T03:34:15.872] User: Server, Operation: view, Data: 
+[2025-03-25T03:34:21.912] User: Server, Operation: book, Data: {"date":"2025-03-31","startTime":"4:00 PM","endTime":"5:00 PM","username":"yuri"}
+[2025-03-25T03:34:22.991] User: Server, Operation: view, Data: 
+[2025-03-25T03:34:22.995] User: yuri, Operation: book, Data: Appointment booked for 2025-03-31 at 4:00 PM
+[2025-03-25T03:34:26.886] User: Server, Operation: cancel, Data: 2d8861eb
+[2025-03-25T03:40:33.921] User: Server, Operation: login, Data: {"password":"1111","username":"yuri"}
+[2025-03-25T03:40:33.937] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T03:40:35.778] User: Server, Operation: view, Data: 
+[2025-03-25T03:40:42.939] User: Server, Operation: cancel, Data: 128cf8b5
+[2025-03-25T03:40:44.115] User: yuri, Operation: cancel, Data: Appointment cancelled for 2025-03-31 at 4:00 PM
+[2025-03-25T04:05:36.382] User: Server, Operation: login, Data: {"password":"1111","username":"yuri"}
+[2025-03-25T04:05:36.423] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T04:05:44.775] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:05:49.791] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:05:54.785] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:05:55.202] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:05:59.791] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:00.215] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:04.778] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:05.216] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:09.785] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:10.21] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:14.792] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:15.216] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:19.792] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:20.215] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:24.782] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:25.221] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:29.793] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:30.213] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:34.779] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:35.216] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:39.778] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:40.216] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:43.139] User: Server, Operation: send_message, Data: {"read":false,"receiver":"barber","sender":"yuri","content":"men gumana ka","timestamp":"2025-03-25T04:06:43.138"}
+[2025-03-25T04:06:43.144] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:43.159] User: yuri, Operation: message_sent, Data: To: barber, Content: men gumana ka
+[2025-03-25T04:06:44.79] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:45.212] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:49.79] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:50.225] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:51.442] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:54.789] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:06:55.215] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:56.448] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:06:59.792] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:07:00.213] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:07:01.447] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:07:04.791] User: Server, Operation: get_conversation, Data: {"user1":"yuri","user2":"barber"}
+[2025-03-25T04:07:05.212] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:07:06.447] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:08:03.869] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:08:08.878] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:08:13.883] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:08:18.875] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:08:23.876] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:08:28.889] User: Server, Operation: get_message_users, Data: barber
+[2025-03-25T04:13:14.689] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T04:13:14.74] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T04:13:36.485] User: yuri, Operation: message_sent, Data: To: barber, Content: tang ina mo
+[2025-03-25T04:13:58.843] User: barber, Operation: message_sent, Data: To: yuri, Content: tangina mo din
+[2025-03-25T04:33:37.787] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T04:33:37.842] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T04:34:01.041] User: yuri, Operation: message_sent, Data: To: barber, Content: bayag
+[2025-03-25T04:39:48.048] User: barber, Operation: message_sent, Data: To: null, Content: call of booty
+[2025-03-25T04:40:16.458] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T04:40:16.473] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T04:40:40.103] User: yuri, Operation: message_sent, Data: To: barber, Content: "may gusto kabang sabihin?"
+[2025-03-25T04:41:16.48] User: barber, Operation: message_sent, Data: To: null, Content: "ooohhh wag na wag mong sasabihin"
+[2025-03-25T04:41:34.911] User: yuri, Operation: message_sent, Data: To: barber, Content: "na putang ina mo"
+[2025-03-25T04:42:45.129] User: barber, Operation: message_sent, Data: To: null, Content: ahhhhhhhh ayaw gumana
+[2025-03-25T04:43:08.461] User: yuri, Operation: message_sent, Data: To: barber, Content: damn shao hao fine shyt
+[2025-03-25T04:46:24.604] User: yuriha, Operation: login, Data: User logged in successfully
+[2025-03-25T04:46:24.628] User: yuriha, Operation: login, Data: User logged in successfully
+[2025-03-25T04:46:39.454] User: yuriha, Operation: message_sent, Data: To: barber, Content: youll be back gurl
+[2025-03-25T04:46:53.65] User: barber, Operation: message_sent, Data: To: null, Content: yez zer
+[2025-03-25T04:56:36.003] User: yuriha, Operation: login, Data: Login failed: Invalid username or password
+[2025-03-25T04:56:46.661] User: yuriha, Operation: login, Data: User logged in successfully
+[2025-03-25T04:56:46.671] User: yuriha, Operation: login, Data: User logged in successfully
+[2025-03-25T05:04:50.543] User: barber, Operation: message_sent, Data: To: sana, Content: naryan kapaba?
+[2025-03-25T05:05:27.982] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-25T05:05:27.998] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-25T05:05:52.303] User: sana, Operation: message_sent, Data: To: barber, Content: nandito parin ako
+[2025-03-25T05:06:31.168] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-25T05:06:31.203] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-25T05:07:19.489] User: sana, Operation: message_sent, Data: To: barber, Content: wanna break from the add?
+[2025-03-25T05:09:10.089] User: sana, Operation: message_sent, Data: To: barber, Content: tanginamo panget ng barbershop mo
+[2025-03-25T05:09:25.571] User: barber, Operation: message_sent, Data: To: null, Content: telll
+[2025-03-25T05:09:42.8] User: barber, Operation: message_sent, Data: To: null, Content: ang panget mo
+[2025-03-25T05:11:14.543] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T05:11:14.571] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T05:11:46.51] User: yuri, Operation: message_sent, Data: To: barber, Content: explore mga hilig mo ng libre
+[2025-03-25T05:11:58.448] User: yuri, Operation: message_sent, Data: To: barber, Content: tanga
+[2025-03-25T05:12:23.984] User: barber, Operation: message_sent, Data: To: yuri, Content: burat may date amp
+[2025-03-25T05:18:39.846] User: 69, Operation: login, Data: User logged in successfully
+[2025-03-25T05:18:39.861] User: 69, Operation: login, Data: User logged in successfully
+[2025-03-25T05:18:56.239] User: 69, Operation: message_sent, Data: To: barber, Content: sa iyo
+[2025-03-25T05:19:20.493] User: barber, Operation: message_sent, Data: To: 69, Content: break dance
+[2025-03-25T05:20:10.003] User: barber, Operation: message_sent, Data: To: tanga, Content: tanga kadin
+[2025-03-25T05:22:18.247] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T05:22:18.285] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-25T05:22:39.133] User: yuri, Operation: message_sent, Data: To: barber, Content: testing.............
+[2025-03-25T05:23:06.548] User: barber, Operation: message_sent, Data: To: yuri, Content: delay ampota
+[2025-03-25T05:23:13.555] User: barber, Operation: message_sent, Data: To: yuri, Content: call back bayan
+[2025-03-25T05:23:29.953] User: yuri, Operation: message_sent, Data: To: barber, Content: burst pade
+[2025-03-25T13:20:30.1418721] User: levi, Operation: register, Data: User registered successfully
+[2025-03-25T13:20:30.1688743] User: levi, Operation: register, Data: User registered successfully
+[2025-03-25T13:20:39.1308721] User: levi, Operation: login, Data: User logged in successfully
+[2025-03-25T13:20:39.1318729] User: levi, Operation: login, Data: User logged in successfully
+[2025-03-31T03:45:24.986] User: yuri, Operation: login, Data: Error: null
+[2025-03-31T03:50:37.916] User: yuri, Operation: login, Data: Error: null
+[2025-03-31T03:51:04.527] User: yuri, Operation: login, Data: Error: null
+[2025-03-31T04:15:54.343] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T04:15:54.377] User: yuri, Operation: login, Data: Error: RMI communication error: error unmarshalling return; nested exception is: 
+	java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: common.model.Response
+[2025-03-31T04:27:16.951] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T04:27:16.973] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T04:27:42.238] User: barber, Operation: message_sent, Data: To: yuri, Content: yes
+[2025-03-31T04:27:48.127] User: yuri, Operation: message_sent, Data: To: barber, Content: damn
+[2025-03-31T04:27:56.364] User: yuri, Operation: message_sent, Data: To: barber, Content: check
+[2025-03-31T05:27:49.895] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:27:49.921] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:27:58.425] User: yuri, Operation: book, Data: Appointment booked for 2025-03-29 at 9:00 AM
+[2025-03-31T05:27:59.278] User: yuri, Operation: book, Data: Appointment booked for 2025-03-29 at 9:00 AM
+[2025-03-31T05:28:30.721] User: barber, Operation: message_sent, Data: To: yuri, Content: wassup brody attempt 2
+[2025-03-31T05:28:47.737] User: yuri, Operation: message_sent, Data: To: barber, Content: damn di parin
+[2025-03-31T05:37:32.541] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:37:32.584] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:38:00.475] User: yuri, Operation: message_sent, Data: To: barber, Content: rivers flow in you
+[2025-03-31T05:38:58.96] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:38:58.984] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:43:39.758] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:43:39.78] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:43:51.188] User: yuri, Operation: message_sent, Data: To: barber, Content: they say
+[2025-03-31T05:44:01.793] User: yuri, Operation: message_sent, Data: To: barber, Content: you know by you know
+[2025-03-31T05:52:52.388] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:52:52.41] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:53:28.066] User: yuri, Operation: message_sent, Data: To: barber, Content: asfasfaf
+[2025-03-31T05:55:24.835] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:55:24.858] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T05:55:51.369] User: yuri, Operation: message_sent, Data: To: barber, Content: ....
+[2025-03-31T06:31:45.067] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:31:45.102] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:32:06.089] User: yuri, Operation: message_sent, Data: To: barber, Content: fall
+[2025-03-31T06:32:12.528] User: yuri, Operation: message_sent, Data: To: barber, Content: lost
+[2025-03-31T06:36:33.867] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:36:33.894] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:36:47.593] User: yuri, Operation: message_sent, Data: To: barber, Content: barb
+[2025-03-31T06:36:57.695] User: yuri, Operation: message_sent, Data: To: barber, Content: asd
+[2025-03-31T06:40:26.941] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:40:26.963] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:40:45.436] User: yuri, Operation: message_sent, Data: To: barber, Content: asdas
+[2025-03-31T06:40:55.201] User: yuri, Operation: message_sent, Data: To: barber, Content: asd
+[2025-03-31T06:43:30.217] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:43:30.242] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:43:58.11] User: yuri, Operation: message_sent, Data: To: barber, Content: dasda
+[2025-03-31T06:50:02.586] User: yuriha, Operation: login, Data: User logged in successfully
+[2025-03-31T06:50:02.612] User: yuriha, Operation: login, Data: User logged in successfully
+[2025-03-31T06:50:24.201] User: yuriha, Operation: message_sent, Data: To: barber, Content: what
+[2025-03-31T06:54:11.938] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:54:11.962] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T06:54:22.798] User: yuri, Operation: message_sent, Data: To: barber, Content: stiil
+[2025-03-31T06:54:30.247] User: barber, Operation: message_sent, Data: To: yuri, Content: soar
+[2025-03-31T06:54:41.257] User: yuri, Operation: message_sent, Data: To: barber, Content: flood
+[2025-03-31T06:58:18.618] User: 69, Operation: login, Data: User logged in successfully
+[2025-03-31T06:58:18.642] User: 69, Operation: login, Data: User logged in successfully
+[2025-03-31T06:58:33.107] User: 69, Operation: message_sent, Data: To: barber, Content: above the storm
+[2025-03-31T06:58:40.73] User: barber, Operation: message_sent, Data: To: 69, Content: still
+[2025-03-31T07:05:25.255] User: 69, Operation: login, Data: User logged in successfully
+[2025-03-31T07:05:25.277] User: 69, Operation: login, Data: User logged in successfully
+[2025-03-31T07:05:34.445] User: 69, Operation: message_sent, Data: To: barber, Content: god
+[2025-03-31T07:05:39.755] User: barber, Operation: message_sent, Data: To: 69, Content: storm
+[2025-03-31T07:08:42.517] User: 69, Operation: login, Data: User logged in successfully
+[2025-03-31T07:08:42.54] User: 69, Operation: login, Data: User logged in successfully
+[2025-03-31T07:08:58.244] User: 69, Operation: message_sent, Data: To: barber, Content: king
+[2025-03-31T07:09:01.554] User: barber, Operation: message_sent, Data: To: 69, Content: kind
+[2025-03-31T07:16:40.625] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-31T07:16:40.648] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-31T07:16:52.564] User: sana, Operation: message_sent, Data: To: barber, Content: living hope
+[2025-03-31T09:28:38.121] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T09:28:38.142] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T09:28:56.862] User: barber, Operation: message_sent, Data: To: yuri, Content: yo
+[2025-03-31T09:29:12.272] User: barber, Operation: message_sent, Data: To: yuri, Content: .
+[2025-03-31T09:38:34.662] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-03-31T09:38:39.253] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T09:38:39.255] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T09:39:07.828] User: barber, Operation: message_sent, Data: To: yuri, Content: hi
+[2025-03-31T09:39:23.138] User: barber, Operation: message_sent, Data: To: yuri, Content: sup
+[2025-03-31T09:43:29.944] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T09:43:29.958] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T09:43:54.315] User: barber, Operation: message_sent, Data: To: yuri, Content: sneffex
+[2025-03-31T10:03:16.279] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:03:16.296] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:09:55.539] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:09:55.551] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:12:01.711] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:12:01.723] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:17:06.083] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:17:06.097] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:17:40.489] User: barber, Operation: message_sent, Data: To: yuri, Content: what
+[2025-03-31T10:22:52.428] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:22:52.442] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:23:07.538] User: barber, Operation: message_sent, Data: To: 69, Content: 1
+[2025-03-31T10:23:33.904] User: barber, Operation: message_sent, Data: To: yuri, Content: huh
+[2025-03-31T10:32:22.711] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-31T10:32:22.724] User: sana, Operation: login, Data: User logged in successfully
+[2025-03-31T10:32:37.768] User: barber, Operation: message_sent, Data: To: sana, Content: panget
+[2025-03-31T10:35:41.851] User: sana, Operation: book, Data: Appointment booked for 2025-04-18 at 9:00 AM
+[2025-03-31T10:35:42.895] User: sana, Operation: book, Data: Appointment booked for 2025-04-18 at 9:00 AM
+[2025-03-31T10:35:49.289] User: yuri, Operation: cancel, Data: Appointment cancelled
+[2025-03-31T10:35:50.708] User: sana, Operation: cancel, Data: Appointment cancelled with ID: 
+[2025-03-31T10:35:59.541] User: sana, Operation: cancel, Data: Appointment cancelled
+[2025-03-31T10:36:00.589] User: sana, Operation: cancel, Data: Appointment cancelled for 2025-04-18 at 9:00 AM
+[2025-03-31T10:40:37.97] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:40:37.984] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:41:31.858] User: barber, Operation: message_sent, Data: To: yuri, Content: mo iyo
+[2025-03-31T10:49:31.343] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:49:31.357] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T10:50:08.359] User: barber, Operation: message_sent, Data: To: yuri, Content: dis
+[2025-03-31T11:11:26.868] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T11:11:26.902] User: yuri, Operation: login, Data: User logged in successfully
+[2025-03-31T11:11:57.683] User: barber, Operation: message_sent, Data: To: yuri, Content: hotdog
+[2025-04-03T01:13:13.394] User: levi, Operation: register, Data: User registered successfully
+[2025-04-03T01:13:13.43] User: levi, Operation: register, Data: User registered successfully
+[2025-04-03T01:13:25.392] User: levi, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-03T01:13:31.832] User: levi, Operation: register, Data: User registered successfully
+[2025-04-03T01:13:31.833] User: levi, Operation: register, Data: User registered successfully
+[2025-04-03T01:13:35.969] User: levi, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-03T01:13:38.807] User: levi, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-03T01:13:43.307] User: levi, Operation: register, Data: User registered successfully
+[2025-04-03T01:13:43.308] User: levi, Operation: register, Data: User registered successfully
+[2025-04-03T01:13:49.41] User: levi, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T03:59:04.252] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:02:26.167] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:10:41.044] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:12:18.024] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:15:42.472] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:20:45.415] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:29:20.117] User: user, Operation: login, Data: User logged in successfully
+[2025-04-12T04:29:20.143] User: user, Operation: login, Data: User logged in successfully
+[2025-04-12T04:29:46.875] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:44:45.224] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:45:35.244] User: admin, Operation: login, Data: User logged in successfully
+[2025-04-12T04:45:35.267] User: admin, Operation: login, Data: User logged in successfully
+[2025-04-12T04:49:48.099] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:49:57.79] User: admin, Operation: login, Data: User logged in successfully
+[2025-04-12T04:49:57.801] User: admin, Operation: login, Data: User logged in successfully
+[2025-04-12T04:55:40.111] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:55:44.44] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T04:55:58.219] User: admin, Operation: login, Data: User logged in successfully
+[2025-04-12T04:55:58.227] User: admin, Operation: login, Data: User logged in successfully
+[2025-04-12T05:00:55.348] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-04-12T05:06:59.634] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:06:59.657] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:08:30.245] User: damn, Operation: register, Data: User registered successfully
+[2025-04-12T05:08:30.259] User: damn, Operation: register, Data: User registered successfully
+[2025-04-12T05:08:35.312] User: damn, Operation: login, Data: User logged in successfully
+[2025-04-12T05:08:35.313] User: damn, Operation: login, Data: User logged in successfully
+[2025-04-12T05:09:05.186] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:09:05.198] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:26:42.8] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:26:42.86] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:26:49.709] User: yuri, Operation: book, Data: Appointment booked for 2025-04-16 at 9:00 AM
+[2025-04-12T05:26:50.54] User: yuri, Operation: book, Data: Appointment booked for 2025-04-16 at 9:00 AM
+[2025-04-12T05:32:19.514] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:32:19.536] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:33:12.211] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:33:12.232] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T05:34:05.121] User: barber, Operation: message_sent, Data: To: yuri, Content: yow
+[2025-04-12T09:33:48.473] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-12T09:33:48.498] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-23T20:46:38.416] User: yuri, Operation: mark_finished, Data: Appointment marked as finished
+[2025-04-25T22:01:05.307] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-25T22:01:05.33] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-25T22:01:11.195] User: yuri, Operation: book, Data: Appointment booked for 2025-04-25 at 9:00 AM
+[2025-04-25T22:01:12.084] User: yuri, Operation: book, Data: Appointment booked for 2025-04-25 at 9:00 AM
+[2025-04-25T22:01:23.596] User: yuri, Operation: mark_finished, Data: Appointment marked as finished
+[2025-04-25T22:06:51.758] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-25T22:06:51.78] User: yuri, Operation: login, Data: User logged in successfully
+[2025-04-25T22:06:57.296] User: yuri, Operation: book, Data: Appointment booked for 2025-07-25 at 10:00 AM
+[2025-04-25T22:06:58.118] User: yuri, Operation: book, Data: Appointment booked for 2025-07-25 at 10:00 AM
+[2025-05-02T18:31:46.241] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-02T18:31:46.269] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-02T18:32:25.605] User: yuri, Operation: book, Data: Appointment booked for 2025-05-03 at 9:00 AM
+[2025-05-02T18:32:26.587] User: yuri, Operation: book, Data: Appointment booked for 2025-05-03 at 9:00 AM
+[2025-05-02T18:32:31.023] User: yuri, Operation: mark_finished, Data: Appointment marked as finished
+[2025-05-02T18:32:57.818] User: yuri, Operation: cancel, Data: Appointment cancelled
+[2025-05-02T18:33:00.262] User: yuri, Operation: cancel, Data: Appointment cancelled with ID: 7cb31dd8
+[2025-05-02T18:33:03.163] User: yuri, Operation: logout, Data: User logged out
+[2025-05-02T18:35:15.749] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-02T18:35:15.764] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-02T18:35:49.904] User: yuri, Operation: cancel, Data: Appointment cancelled
+[2025-05-02T18:35:50.829] User: yuri, Operation: cancel, Data: Appointment cancelled with ID: b350372c
+[2025-05-02T18:53:21.401] User: yuri, Operation: login, Data: Login failed: Invalid username or password
+[2025-05-02T18:53:22.782] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-02T18:53:22.791] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-02T18:53:55.925] User: yuri, Operation: book, Data: Appointment booked for 2025-05-03 at 9:00 AM
+[2025-05-02T18:53:56.611] User: yuri, Operation: book, Data: Appointment booked for 2025-05-03 at 9:00 AM
+[2025-05-02T18:54:13.168] User: yuri, Operation: cancel, Data: Appointment cancelled
+[2025-05-02T18:54:17.641] User: yuri, Operation: cancel, Data: Appointment cancelled with ID: 0c0b0ba7
+[2025-05-02T19:10:27.041] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-02T19:10:27.067] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-02T19:10:35.03] User: admin, Operation: delete_cancelled, Data: Permanently deleted appointment: 0c0b0ba7
+[2025-05-03T02:33:52.996] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-03T02:33:53.018] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-03T12:25:09.172] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-03T12:25:09.202] User: yuri, Operation: login, Data: User logged in successfully
+[2025-05-03T12:26:08.877] User: tanga, Operation: cancel, Data: Appointment cancelled

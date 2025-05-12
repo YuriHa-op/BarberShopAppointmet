@@ -1,0 +1,100 @@
+{"appointments": [
+  {
+    "date": "2025-03-29",
+    "startTime": "3:00 PM",
+    "id": "781b2ac7",
+    "endTime": "4:00 PM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-23",
+    "startTime": "10:00 AM",
+    "id": "25796d5c",
+    "endTime": "11:00 AM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-29",
+    "startTime": "9:00 AM",
+    "id": "683f0ff3",
+    "endTime": "10:00 AM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-29",
+    "startTime": "9:00 AM",
+    "id": "8a74670a",
+    "endTime": "10:00 AM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-29",
+    "startTime": "9:00 AM",
+    "id": "94bcabc1",
+    "endTime": "10:00 AM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-29",
+    "startTime": "9:00 AM",
+    "id": "ac5a2960",
+    "endTime": "10:00 AM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-31",
+    "startTime": "3:00 PM",
+    "id": "96e75417",
+    "endTime": "4:00 PM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-30",
+    "startTime": "9:00 AM",
+    "id": "19505678",
+    "endTime": "10:00 AM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-23",
+    "startTime": "12:00 PM",
+    "id": "49ba5a6d",
+    "endTime": "1:00 PM",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-31",
+    "startTime": "10:00 AM",
+    "id": "7e07cf8a",
+    "endTime": "11:00 AM",
+    "username": "69"
+  },
+  {
+    "date": "2025-03-22",
+    "startTime": "4:00 PM",
+    "id": "cb0a3283",
+    "endTime": "5:00 PM",
+    "username": "sana"
+  },
+  {
+    "date": "2025-03-23",
+    "startTime": "10:00",
+    "id": "6a715cb7",
+    "endTime": "11:00",
+    "username": "barber"
+  },
+  {
+    "date": "2025-03-29",
+    "startTime": "3:00 PM",
+    "id": "afb76f47",
+    "endTime": "4:00 PM",
+    "username": "yuriha"
+  },
+  {
+    "date": "2025-03-23",
+    "startTime": "4:00 PM",
+    "id": "eb82108f",
+    "endTime": "5:00 PM",
+    "username": "barber"
+  }
+]}

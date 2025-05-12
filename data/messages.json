@@ -1,0 +1,802 @@
+{"messages": [
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "69",
+    "id": "bf251a65-b67d-4e9b-9616-67db97a590d6",
+    "content": "sa iyo",
+    "timestamp": "2025-03-25T05:18:56.222"
+  },
+  {
+    "read": false,
+    "receiver": "69",
+    "sender": "barber",
+    "id": "8bcdea10-7006-483e-82e5-1da170bf6364",
+    "content": "break dance",
+    "timestamp": "2025-03-25T05:19:20.481"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "69",
+    "id": "b694f933-92f0-47da-b5e1-8ad63a906d5f",
+    "content": "above the storm",
+    "timestamp": "2025-03-31T06:58:33.094"
+  },
+  {
+    "read": false,
+    "receiver": "69",
+    "sender": "barber",
+    "id": "29a84ef6-d1ca-4bfd-a0ef-6d532b606f02",
+    "content": "still",
+    "timestamp": "2025-03-31T06:58:40.726"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "69",
+    "id": "25fad3d1-7369-4bec-924e-de05bde7ed41",
+    "content": "god",
+    "timestamp": "2025-03-31T07:05:34.430"
+  },
+  {
+    "read": false,
+    "receiver": "69",
+    "sender": "barber",
+    "id": "488930d2-31c2-4604-98dc-88844022565c",
+    "content": "storm",
+    "timestamp": "2025-03-31T07:05:39.750"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "69",
+    "id": "272df855-1fe4-4f94-82cf-46909f868df5",
+    "content": "king",
+    "timestamp": "2025-03-31T07:08:58.230"
+  },
+  {
+    "read": false,
+    "receiver": "69",
+    "sender": "barber",
+    "id": "ef1dfa56-3741-4ab5-98a1-df4ada262f5f",
+    "content": "kind",
+    "timestamp": "2025-03-31T07:09:01.550"
+  },
+  {
+    "read": false,
+    "receiver": "69",
+    "sender": "barber",
+    "id": "23547193-1b20-4aa4-b414-850a339f5134",
+    "content": "1",
+    "timestamp": "2025-03-31T10:23:07.418"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "a9393208-b48a-4d06-bc05-34fe9817edcb",
+    "content": "men gumana ka",
+    "timestamp": "2025-03-25T04:06:43.138"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "e8ee67ae-d61d-4cfd-8ead-676453af2ca1",
+    "content": "tang ina mo",
+    "timestamp": "2025-03-25T04:13:36.475"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "9f11d452-e617-417f-a5b6-a8a8c8e777d6",
+    "content": "tangina mo din",
+    "timestamp": "2025-03-25T04:13:58.832"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "549b6555-27b3-4ea3-b4e6-1e4017b45ed7",
+    "content": "bayag",
+    "timestamp": "2025-03-25T04:34:01.028"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "bfdcf688-abd7-422a-9a42-d6514c93780a",
+    "content": "call of booty",
+    "timestamp": "2025-03-25T04:39:48.042"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "c9fe57f1-f912-4772-908c-d5f9692a5ef9",
+    "content": "\"may gusto kabang sabihin?\"",
+    "timestamp": "2025-03-25T04:40:40.092"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "d0392913-c3fe-4ea4-8aa6-2ba888f7ba63",
+    "content": "\"ooohhh wag na wag mong sasabihin\"",
+    "timestamp": "2025-03-25T04:41:16.473"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "7ea8935a-0290-4209-ad7b-143c9e714614",
+    "content": "\"na putang ina mo\"",
+    "timestamp": "2025-03-25T04:41:34.901"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "3ae5cd33-2a1f-4c9e-9a21-f2d3deb61d84",
+    "content": "ahhhhhhhh ayaw gumana",
+    "timestamp": "2025-03-25T04:42:45.122"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "94adb6f0-cff7-4f44-8d99-5236e356d303",
+    "content": "damn shao hao fine shyt",
+    "timestamp": "2025-03-25T04:43:08.451"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "9f79cb9f-13a5-4167-8e60-fabff96525b6",
+    "content": "explore mga hilig mo ng libre",
+    "timestamp": "2025-03-25T05:11:46.498"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "f9c956ff-d53a-40ae-a7cf-c76efce6d5a7",
+    "content": "tanga",
+    "timestamp": "2025-03-25T05:11:58.437"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "ba69c447-8187-466a-b25e-5560d890b15f",
+    "content": "burat may date amp",
+    "timestamp": "2025-03-25T05:12:23.967"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "381d8616-6a56-4089-9fda-91e8ccbc0b8e",
+    "content": "testing.............",
+    "timestamp": "2025-03-25T05:22:39.120"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "9cf0cef2-89dd-47ab-86ec-ca0c441c59c3",
+    "content": "delay ampota",
+    "timestamp": "2025-03-25T05:23:06.537"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "13cbcb77-1fda-4341-ac7a-4d2cf1f89aa1",
+    "content": "call back bayan",
+    "timestamp": "2025-03-25T05:23:13.544"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "987eacae-f082-4c9b-919a-4abfe5fd0e1b",
+    "content": "burst pade",
+    "timestamp": "2025-03-25T05:23:29.944"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "675d695f-4701-414f-94c2-8f5e8ab7b138",
+    "content": "yes",
+    "timestamp": "2025-03-31T04:27:42.213"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "31924d51-bb43-4f93-9e0b-f15d4930f568",
+    "content": "damn",
+    "timestamp": "2025-03-31T04:27:48.110"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "205be6d8-f347-423d-93b3-778809ed3e94",
+    "content": "check",
+    "timestamp": "2025-03-31T04:27:56.349"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "27ff8d11-5334-4843-9b1a-9bb481872021",
+    "content": "wassup brody attempt 2",
+    "timestamp": "2025-03-31T05:28:30.687"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "333d0abd-6f16-4c6a-a5ce-10806f4c473e",
+    "content": "damn di parin",
+    "timestamp": "2025-03-31T05:28:47.734"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "fcbb9bcd-922b-4158-8687-c4c5e2104fa5",
+    "content": "delay check",
+    "timestamp": "2025-03-31T05:37:46.134"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "a6068aca-2914-4cc9-8d22-18b133769883",
+    "content": "rivers flow in you",
+    "timestamp": "2025-03-31T05:38:00.470"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "017a6f92-3f59-49d1-9724-6a38b1d07880",
+    "content": "yuri egin",
+    "timestamp": "2025-03-31T05:39:20.030"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "507fbe34-5113-472f-889b-2eb813c98b4a",
+    "content": "they say",
+    "timestamp": "2025-03-31T05:43:51.181"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "d4828725-3ff8-4a19-aad9-bd040035485e",
+    "content": "you know by you know",
+    "timestamp": "2025-03-31T05:44:01.789"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "dc17dc6e-5656-4dd6-962e-14b7d4f42b4f",
+    "content": "fuck",
+    "timestamp": "2025-03-31T05:44:10.197"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "d9b4b8e8-a97c-4083-9c05-d10923b5c218",
+    "content": "take me back to the night we met",
+    "timestamp": "2025-03-31T05:53:18.151"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "3f487c0d-f693-439b-9a4d-e8d1469366dc",
+    "content": "asfasfaf",
+    "timestamp": "2025-03-31T05:53:28.061"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "876e6457-2bbb-42dc-ae25-a2bc27733969",
+    "content": "....",
+    "timestamp": "2025-03-31T05:55:47.708"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "45f54927-0b99-4c0b-ad15-75b7a33c5f7e",
+    "content": "....",
+    "timestamp": "2025-03-31T05:55:51.353"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "cc856b01-ad74-4e4b-9be3-f77ce6a7dc5b",
+    "content": "failed",
+    "timestamp": "2025-03-31T05:56:01.973"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "925fb878-3600-4bc1-9eff-127154e3eb74",
+    "content": "fall",
+    "timestamp": "2025-03-31T06:31:59.157"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "4ad04511-3e60-4299-94e5-130213524b59",
+    "content": "fall",
+    "timestamp": "2025-03-31T06:32:06.086"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "5d0e6238-9328-41d8-a038-2773fbf3eb16",
+    "content": "lost",
+    "timestamp": "2025-03-31T06:32:12.525"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "6db18d2c-7003-4e03-8203-aa3420c58ceb",
+    "content": "barb",
+    "timestamp": "2025-03-31T06:36:47.581"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "c2c8a893-b269-4473-9ad6-885b8dea7f6c",
+    "content": "barb",
+    "timestamp": "2025-03-31T06:36:51.934"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "cbda398b-c7a5-4aea-b3e5-caea5dc34e6d",
+    "content": "",
+    "timestamp": "2025-03-31T06:36:54.097"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "2af71655-e20d-4e0b-9326-75095b1d429c",
+    "content": "",
+    "timestamp": "2025-03-31T06:36:54.269"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "604c8b89-95b9-41e2-a0af-17ef98c369e5",
+    "content": "",
+    "timestamp": "2025-03-31T06:36:54.434"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "ef54fa14-4c8a-4b31-b8c8-60aa6cbf6d10",
+    "content": "",
+    "timestamp": "2025-03-31T06:36:54.622"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "02d8aa10-24d9-49fc-9784-d8c6f4107eef",
+    "content": "asd",
+    "timestamp": "2025-03-31T06:36:57.693"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "0d2f8b7b-7dea-43e1-996e-8d9e0e88caa8",
+    "content": "sadasd",
+    "timestamp": "2025-03-31T06:40:42.091"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "84cd7ce7-ccca-4048-9453-f46a6d482dcd",
+    "content": "asdas",
+    "timestamp": "2025-03-31T06:40:45.432"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "7058a8b1-5224-463a-a486-ef34ec4613ea",
+    "content": "asd",
+    "timestamp": "2025-03-31T06:40:55.198"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "5586a3b0-7253-4527-a72d-68e1773b1b88",
+    "content": "adasd",
+    "timestamp": "2025-03-31T06:40:57.463"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "30bff6d9-13ef-42ef-83fb-3a31d85b9dcc",
+    "content": "asdasd",
+    "timestamp": "2025-03-31T06:43:56.074"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "8aeb5a90-cc40-4ca2-b5ce-153bafb524e9",
+    "content": "dasda",
+    "timestamp": "2025-03-31T06:43:58.107"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "befb9baa-e540-44bb-b1be-01d7b334ba2a",
+    "content": "stiil",
+    "timestamp": "2025-03-31T06:54:22.785"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "c16ebdd5-2ae2-4f69-b922-04008f14b21a",
+    "content": "soar",
+    "timestamp": "2025-03-31T06:54:30.239"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "06b1b3a4-7804-4a8c-ba4b-034ddbeba6b9",
+    "content": "flood",
+    "timestamp": "2025-03-31T06:54:41.254"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "fb17bf35-eecb-43b0-9ba5-974debe801c9",
+    "content": "yo",
+    "timestamp": "2025-03-31T09:28:56.820"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "ceb22954-f72d-490d-bc54-752839d7f404",
+    "content": "yo",
+    "timestamp": "2025-03-31T09:29:01.395"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "1a8b02bc-6138-474a-8fa0-bb3d7001adf4",
+    "content": "yo",
+    "timestamp": "2025-03-31T09:29:08.130"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "7bdff64f-9f6d-4c12-a58e-768423d22cb8",
+    "content": ".",
+    "timestamp": "2025-03-31T09:29:12.246"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "5cbafcca-3742-45ef-a8a7-2d751f775a21",
+    "content": "hi",
+    "timestamp": "2025-03-31T09:39:07.765"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "5ba7bf2a-cbd1-400e-8fec-c13e4c93700b",
+    "content": "hello",
+    "timestamp": "2025-03-31T09:39:15.633"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "3e88a6ad-f8e2-4719-a303-9966186b02e0",
+    "content": "sup",
+    "timestamp": "2025-03-31T09:39:23.065"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "1dce0f02-69d3-40e5-9e93-a84dac34008f",
+    "content": "damn",
+    "timestamp": "2025-03-31T09:39:33.743"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "e65bcf76-9d33-4558-843a-cbe9d838713a",
+    "content": "sneffex",
+    "timestamp": "2025-03-31T09:43:54.227"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "e0d825c8-5c5a-4f9f-9f88-3c1da32e7d46",
+    "content": "how",
+    "timestamp": "2025-03-31T09:43:59.753"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "899f3901-f28a-47e6-81cc-712ababd8755",
+    "content": "what",
+    "timestamp": "2025-03-31T10:17:38.261"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "15a89960-fff9-46b0-a7cf-b74afad923af",
+    "content": "damn",
+    "timestamp": "2025-03-31T10:17:48.746"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "bc49df94-4902-4050-9145-b8ee41f16814",
+    "content": "1",
+    "timestamp": "2025-03-31T10:23:10.470"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "bc1bca67-e346-47ad-aaab-ea66854c582a",
+    "content": "yuri",
+    "timestamp": "2025-03-31T10:23:21.249"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "001300f8-47e2-4ba9-8f6e-662a8cbf2f1e",
+    "content": "huh",
+    "timestamp": "2025-03-31T10:23:33.767"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "0d9c7f50-452c-41d8-91f6-fd78ed634350",
+    "content": "ano",
+    "timestamp": "2025-03-31T10:23:39.646"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "c5acc185-c846-4887-a750-f7161d78ec63",
+    "content": "shinzo",
+    "timestamp": "2025-03-31T10:41:06.703"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "586a65eb-a0c8-4540-a60c-b22d9ddbe645",
+    "content": "mo iyo",
+    "timestamp": "2025-03-31T10:41:31.647"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "3424d751-a669-4fea-b046-d0940f56ce87",
+    "content": "negai",
+    "timestamp": "2025-03-31T10:41:47.351"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "1374bc5d-016d-4e2e-a199-01b3505c6f64",
+    "content": "dis",
+    "timestamp": "2025-03-31T10:50:08.119"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "09923714-ade8-4ad8-98ff-6c24a6fab1cf",
+    "content": "wha]",
+    "timestamp": "2025-03-31T10:50:12.078"
+  },
+  {
+    "read": true,
+    "receiver": "yuri",
+    "sender": "barber",
+    "id": "60776b05-60d3-4cff-922b-e81a893f17a5",
+    "content": "hotdog",
+    "timestamp": "2025-03-31T11:11:57.557"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuri",
+    "id": "9dc3a937-4ecf-4d09-bc57-168afd9cfa10",
+    "content": "woah",
+    "timestamp": "2025-03-31T11:12:03.752"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuriha",
+    "id": "e625f282-2b59-4d02-b8eb-d4d1447165bf",
+    "content": "youll be back gurl",
+    "timestamp": "2025-03-25T04:46:39.436"
+  },
+  {
+    "read": false,
+    "receiver": "yuriha",
+    "sender": "barber",
+    "id": "a9b7e947-87c8-4f00-b7c1-7b496d4cbb5f",
+    "content": "yez zer",
+    "timestamp": "2025-03-25T04:46:53.642"
+  },
+  {
+    "read": false,
+    "receiver": "yuriha",
+    "sender": "barber",
+    "id": "a17f928f-5906-4157-8753-66de1a83984d",
+    "content": "telll",
+    "timestamp": "2025-03-25T05:09:25.566"
+  },
+  {
+    "read": false,
+    "receiver": "yuriha",
+    "sender": "barber",
+    "id": "90c7b152-8fad-469f-af0b-b91c537b4c39",
+    "content": "test",
+    "timestamp": "2025-03-31T06:50:17.192"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "yuriha",
+    "id": "f3d3b3a2-a044-458e-9d96-e7d4f4340bc3",
+    "content": "what",
+    "timestamp": "2025-03-31T06:50:24.196"
+  },
+  {
+    "read": false,
+    "receiver": "yuriha",
+    "sender": "barber",
+    "id": "e55e60df-a15e-4515-8837-a7fe3c9f6c0a",
+    "content": "g",
+    "timestamp": "2025-03-31T06:50:35.364"
+  },
+  {
+    "read": false,
+    "receiver": "tanga",
+    "sender": "barber",
+    "id": "1a998ca2-9eae-4ab6-8b25-aa92aeec8119",
+    "content": "tanga kadin",
+    "timestamp": "2025-03-25T05:20:09.992"
+  },
+  {
+    "read": false,
+    "receiver": "sana",
+    "sender": "barber",
+    "id": "022659fb-2c90-4acf-a7c8-5d8b8b538464",
+    "content": "naryan kapaba?",
+    "timestamp": "2025-03-25T05:04:50.530"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "sana",
+    "id": "e1ef5745-769b-47be-b014-fa83c7b265cd",
+    "content": "nandito parin ako",
+    "timestamp": "2025-03-25T05:05:52.290"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "sana",
+    "id": "9d53863a-1df9-4a8f-bcf0-e334884b246b",
+    "content": "wanna break from the add?",
+    "timestamp": "2025-03-25T05:07:19.477"
+  },
+  {
+    "read": true,
+    "receiver": "barber",
+    "sender": "sana",
+    "id": "ab369de7-ba76-46f9-91e6-785e380fbeb9",
+    "content": "tanginamo panget ng barbershop mo",
+    "timestamp": "2025-03-25T05:09:10.080"
+  },
+  {
+    "read": false,
+    "receiver": "sana",
+    "sender": "barber",
+    "id": "f99cbffa-4c14-40e8-9063-961ed1a6c521",
+    "content": "ang panget mo",
+    "timestamp": "2025-03-25T05:09:42.771"
+  },
+  {
+    "read": false,
+    "receiver": "barber",
+    "sender": "sana",
+    "id": "c0278d28-38a1-4967-89be-4d59a0e83661",
+    "content": "living hope",
+    "timestamp": "2025-03-31T07:16:52.550"
+  },
+  {
+    "read": false,
+    "receiver": "sana",
+    "sender": "barber",
+    "id": "f6624a69-9eb7-4dcf-9d98-6108650dfa13",
+    "content": "you are",
+    "timestamp": "2025-03-31T07:17:02.702"
+  },
+  {
+    "read": false,
+    "receiver": "sana",
+    "sender": "barber",
+    "id": "8a3021c6-3245-4aa9-a056-ce3859cff699",
+    "content": "panget",
+    "timestamp": "2025-03-31T10:32:37.615"
+  },
+  {
+    "read": false,
+    "receiver": "barber",
+    "sender": "sana",
+    "id": "92663e2a-8e87-4376-a8c4-847c0b981d9c",
+    "content": "ka",
+    "timestamp": "2025-03-31T10:32:45.127"
+  }
+]}
