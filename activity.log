@@ -6,7 +6,6 @@
 [2025-03-25T03:14:04.506] User: Server, Operation: book, Data: {"date":"2025-11-13","startTime":"3:00 PM","endTime":"4:00 PM","username":"yuri"}
 [2025-03-25T03:14:14.13] User: Server, Operation: book, Data: {"date":"2025-03-23","startTime":"9:00 AM","endTime":"10:00 AM","username":"yuri"}
 [2025-03-25T03:17:44.999] User: Server, Operation: login, Data: {"password":"1111","username":"yuri"}
-[2025-03-25T03:17:47.659] User: Server, Operation: view, Data: 
 [2025-03-25T03:17:51.605] User: Server, Operation: view, Data: 
 [2025-03-25T03:18:01.22] User: Server, Operation: cancel, Data: 5d100a5a
 [2025-03-25T03:18:02.099] User: Server, Operation: view, Data: 
